@@ -36,6 +36,6 @@
 
     </script>
 <!-- End Facebook Pixel Code -->
-<meta http-equiv="refresh" content="1;URL=http://bit.ly/AtendimentoMSO"></meta>
+<meta http-equiv="refresh" content="0;URL=http://bit.ly/AtendimentoMSO"></meta>
 </body>
 </html>
