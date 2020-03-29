@@ -32,7 +32,7 @@
 
                     fbq('init', '217841416004795');
         
-        fbq('track', 'Purchase');
+        fbq('track', 'InitiateCheckout');
 
     </script>
 <!-- End Facebook Pixel Code -->
