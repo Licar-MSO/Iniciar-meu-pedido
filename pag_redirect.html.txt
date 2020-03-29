@@ -1,5 +1,9 @@
+ <!doctype html>
 <html>
-<head><title>Contato para Compras</title>
+<head>
+<title>Contato para Compras</title>
+ <script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script>
+ </head>
 </head>
 <body>
  <!-- Facebook Pixel Code -->
@@ -32,6 +36,6 @@
 
     </script>
 <!-- End Facebook Pixel Code -->
-<META http-equiv="refresh" content="0;URL=https://bit.ly/AtendimentoMSO"
+<meta http-equiv="refresh" content="0;URL=http://bit.ly/AtendimentoMSO"></meta>
 </body>
 </html>
